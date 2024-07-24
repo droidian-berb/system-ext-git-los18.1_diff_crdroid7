@@ -17,4 +17,4 @@ user=system seinfo=platform name=org.lineageos.devicesettings domain=devicesetti
 user=system seinfo=platform name=org.lineageos.settings domain=devicesettings_app type=system_app_data_file
 user=_app isPrivApp=true seinfo=platform name=com.android.gallery3d domain=gallery_app type=app_data_file levelFrom=user
 user=_app isPrivApp=true seinfo=platform name=org.lineageos.snap domain=snap_app type=app_data_file levelFrom=user
-user=_app isPrivApp=true seinfo=platform name=org.lineageos.updater domain=updater_app type=app_data_file levelFrom=user
+user=_app isPrivApp=true seinfo=platform name=com.crdroid.updater domain=updater_app type=app_data_file levelFrom=user

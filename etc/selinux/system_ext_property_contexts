@@ -137,6 +137,7 @@ ro.ril.oem.meid                u:object_r:deviceid_prop:s0
 # MIUI
 ro.cust.test            u:object_r:exported_system_prop:s0
 ro.miui.                u:object_r:exported_system_prop:s0
+vendor.sys.camerainfo   u:object_r:exported_system_prop:s0
 #line 1 "device/lineage/sepolicy/common/private/property_contexts"
 ro.telephony.use_old_mnc_mcc_format    u:object_r:exported3_default_prop:s0
 
